@@ -1,0 +1,1 @@
+otomobil        ID : 1     Yolcu sayisi : 1       Hız : 22       Uretim  yili : 3       Marka : 2       Renk : 3       Fiyat : 2       Tekerlek sayisi : 3
